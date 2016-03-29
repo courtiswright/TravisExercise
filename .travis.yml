@@ -1,4 +1,4 @@
 language:java
 jdk:
-oraclejdk 1.7
+oraclejdk7
 script ant test
